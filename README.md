@@ -1,7 +1,10 @@
 # Otel-Rezervasyon-Web-App
 
 #project -photo - examples
+
 -------------İndex---------------------
+
+
 ![index](https://user-images.githubusercontent.com/68226220/236526405-b38bdda6-9db9-4b3c-9f6d-1fd41897838d.png
 
 -------------Register Page ---------------------
