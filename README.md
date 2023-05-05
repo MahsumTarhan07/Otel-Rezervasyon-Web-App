@@ -4,10 +4,11 @@
 
 -------------İndex---------------------
 
+![index](https://user-images.githubusercontent.com/68226220/236527541-7ce7e801-78d4-41a3-99b7-293afb378799.png)
 
-![index](https://user-images.githubusercontent.com/68226220/236526405-b38bdda6-9db9-4b3c-9f6d-1fd41897838d.png
 
 -------------Register Page ---------------------
+
 ![register](https://user-images.githubusercontent.com/68226220/236526439-5e2c3c12-7bf1-49cf-b12f-6ad29aef201c.png)
 
 -------------Login Page ---------------------
