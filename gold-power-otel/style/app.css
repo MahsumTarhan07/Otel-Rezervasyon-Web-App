@@ -1,0 +1,40 @@
+#brand a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 21px;
+}
+
+#brand:hover{
+    text-decoration: underline;
+    color: #fff;
+    color: grey;
+}
+
+#form{
+    height:600px;
+}
+
+#form ,input[type="text"] {
+    width:450px;
+    height:auto;
+}
+
+#form ,input[type="email"] {
+    width:450px;
+    height:auto;
+}
+
+#form ,input[type="password"] {
+    width:450px;
+    height:auto;
+}
+#rezervasyon-btn{
+    width:450px;
+    height:auto;
+}
+
+
+#otel-photo{
+    width: 100%;
+    background-image: url("https://ygbseasylife.com/wp-content/uploads/2020/08/otel-tesis-yonetimi.jpg");
+}
